@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// Desafio Super Trunfo - Nível Mestre
+// Desafio Super Trunfo - Desenvolvendo a lógica do jogo - Desafio Novato
 
 typedef struct
 {
